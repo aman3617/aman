@@ -81,7 +81,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAman vishwakarma
 \033[1;96mInstagram \033[1;93m: \033[1: kra53299
 \033[1;96mFacebook  \033[1;93m: \033[1: Aman.3617
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Aman.3617/love
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/aman3617/love
 \033[1;91m======================================="""
 
 def tik():
@@ -122,7 +122,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAman vishwakarma
 \033[1;96mInstagram \033[1;93m: \033[1;92mkra53299
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Aman3617
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/aman.3617/love
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/aman3617/love
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
